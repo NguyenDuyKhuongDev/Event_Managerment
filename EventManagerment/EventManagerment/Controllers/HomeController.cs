@@ -1,5 +1,7 @@
+using EventManagerment.DBContext;
 using EventManagerment.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 
 namespace EventManagerment.Controllers
@@ -7,15 +9,20 @@ namespace EventManagerment.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly AppDBContext _context;
+        private readonly IHttpContextAccessor _httpContextAccessor;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, AppDBContext context, IHttpContextAccessor httpContextAccessor)
         {
+            _context = context;
+            _httpContextAccessor = httpContextAccessor;
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            var appDBContext = _context.Events.Include(e => e.Category);
+            return View("View", await appDBContext.ToListAsync());
         }
 
         public IActionResult Privacy()

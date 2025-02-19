@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\EventManagerment\\EventManagerment\\EventManagerment.csproj": {}
+    "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\EventManagerment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\EventManagerment\\EventManagerment\\EventManagerment.csproj": {
+    "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\EventManagerment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\EventManagerment\\EventManagerment\\EventManagerment.csproj",
+        "projectUniqueName": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\EventManagerment.csproj",
         "projectName": "EventManagerment",
-        "projectPath": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\EventManagerment\\EventManagerment\\EventManagerment.csproj",
+        "projectPath": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\EventManagerment.csproj",
         "packagesPath": "C:\\Users\\LAPTOP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\EventManagerment\\EventManagerment\\obj\\",
+        "outputPath": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,26 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
