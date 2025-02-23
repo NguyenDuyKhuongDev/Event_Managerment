@@ -54,7 +54,7 @@ namespace EventManagerment.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("UserID,Username,Password,FullName,Email,Role")] User user)
+        public async Task<IActionResult> Create([Bind("UserID,Username,Password,FullName,Email")] User user)
         {
             if (ModelState.IsValid)
             {
@@ -140,8 +140,10 @@ namespace EventManagerment.Controllers
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var user = await _context.Users.FindAsync(id);
+            var attende = await _context.Attendees.FindAsync(id);
             if (user != null)
             {
+                _context.Attendees.Remove(attende);
                 _context.Users.Remove(user);
             }
 

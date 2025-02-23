@@ -33,6 +33,7 @@ namespace EventManagerment.Controllers
             }
             _httpContextAccessor.HttpContext.Session.SetString("UserId-Session", user.UserID.ToString());
             _httpContextAccessor.HttpContext.Session.SetString("UserName-Session", user.Username.ToString());
+            _httpContextAccessor.HttpContext.Session.SetString("Role-Session", (user.Role == null) ? "0" : user.Role.ToString());
             return RedirectToAction("Index", "Home");
         }
 

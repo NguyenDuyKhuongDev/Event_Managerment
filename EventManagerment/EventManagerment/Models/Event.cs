@@ -22,6 +22,7 @@ namespace EventManagerment.Models
         public string? Location { get; set; }
 
         public virtual EventCategories? Category { get; set; }
+
         public virtual ICollection<Attendee>? Attendees { get; set; }
     }
 }

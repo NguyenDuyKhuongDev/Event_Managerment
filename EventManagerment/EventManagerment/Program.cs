@@ -1,4 +1,6 @@
-using EventManagerment.DBContext;
+﻿using EventManagerment.DBContext;
+using EventManagerment.SignalrServer;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,6 +17,8 @@ builder.Services.AddSession(Option =>
 }
 );
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+builder.Services.AddSignalR();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -31,9 +35,11 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
-
+app.MapHub<SignalrServer>("/signalrServer"); // Định nghĩa endpoint cho SignalR
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Home}/{action=Index}/{id?}"
+
+);
 
 app.Run();

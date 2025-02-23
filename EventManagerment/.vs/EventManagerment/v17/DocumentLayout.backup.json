@@ -1,62 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\",
+  "WorkspaceRootPath": "D:\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|c:\\users\\laptop\\desktop\\workspace\\.net\\event_managerment\\eventmanagerment\\eventmanagerment\\views\\home\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|solutionrelative:eventmanagerment\\views\\home\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|d:\\workspace\\.net\\event_managerment\\eventmanagerment\\eventmanagerment\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|solutionrelative:eventmanagerment\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|c:\\users\\laptop\\desktop\\workspace\\.net\\event_managerment\\eventmanagerment\\eventmanagerment\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|d:\\workspace\\.net\\event_managerment\\eventmanagerment\\eventmanagerment\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|solutionrelative:eventmanagerment\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|d:\\workspace\\.net\\event_managerment\\eventmanagerment\\eventmanagerment\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|solutionrelative:eventmanagerment\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|d:\\workspace\\.net\\event_managerment\\eventmanagerment\\eventmanagerment\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|solutionrelative:eventmanagerment\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|d:\\workspace\\.net\\event_managerment\\eventmanagerment\\eventmanagerment\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|solutionrelative:eventmanagerment\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|c:\\users\\laptop\\desktop\\workspace\\.net\\event_managerment\\eventmanagerment\\eventmanagerment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|solutionrelative:eventmanagerment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|c:\\users\\laptop\\desktop\\workspace\\.net\\event_managerment\\eventmanagerment\\eventmanagerment\\controllers\\attendeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|solutionrelative:eventmanagerment\\controllers\\attendeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|c:\\users\\laptop\\desktop\\workspace\\.net\\event_managerment\\eventmanagerment\\eventmanagerment\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|solutionrelative:eventmanagerment\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|c:\\users\\laptop\\desktop\\workspace\\.net\\event_managerment\\eventmanagerment\\eventmanagerment\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|solutionrelative:eventmanagerment\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|c:\\users\\laptop\\desktop\\workspace\\.net\\event_managerment\\eventmanagerment\\eventmanagerment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|solutionrelative:eventmanagerment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|c:\\users\\laptop\\desktop\\workspace\\.net\\event_managerment\\eventmanagerment\\eventmanagerment\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|solutionrelative:eventmanagerment\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|c:\\users\\laptop\\desktop\\workspace\\.net\\event_managerment\\eventmanagerment\\eventmanagerment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|d:\\workspace\\.net\\event_managerment\\eventmanagerment\\eventmanagerment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|solutionrelative:eventmanagerment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|c:\\users\\laptop\\desktop\\workspace\\.net\\event_managerment\\eventmanagerment\\eventmanagerment\\views\\authentication\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|solutionrelative:eventmanagerment\\views\\authentication\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|c:\\users\\laptop\\desktop\\workspace\\.net\\event_managerment\\eventmanagerment\\eventmanagerment\\views\\attendees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|solutionrelative:eventmanagerment\\views\\attendees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|c:\\users\\laptop\\desktop\\workspace\\.net\\event_managerment\\eventmanagerment\\eventmanagerment\\models\\attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|solutionrelative:eventmanagerment\\models\\attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|c:\\users\\laptop\\desktop\\workspace\\.net\\event_managerment\\eventmanagerment\\eventmanagerment\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|solutionrelative:eventmanagerment\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|c:\\users\\laptop\\desktop\\workspace\\.net\\event_managerment\\eventmanagerment\\eventmanagerment\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|solutionrelative:eventmanagerment\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|d:\\workspace\\.net\\event_managerment\\eventmanagerment\\eventmanagerment\\views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB72DAAC-4B40-40E5-AE21-6B96E769D47F}|EventManagerment\\EventManagerment.csproj|solutionrelative:eventmanagerment\\views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,180 +58,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Models\\Event.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Models\\Event.cs",
               "RelativeDocumentMoniker": "EventManagerment\\Models\\Event.cs",
-              "ToolTip": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Models\\Event.cs",
+              "ToolTip": "D:\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Models\\Event.cs",
               "RelativeToolTip": "EventManagerment\\Models\\Event.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T17:18:44.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "View.cshtml",
-              "DocumentMoniker": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Views\\Home\\View.cshtml",
-              "RelativeDocumentMoniker": "EventManagerment\\Views\\Home\\View.cshtml",
-              "ToolTip": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Views\\Home\\View.cshtml",
-              "RelativeToolTip": "EventManagerment\\Views\\Home\\View.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAUwDQAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T16:51:57.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T09:37:04.493Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "EventManagerment\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "EventManagerment\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBcAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T15:18:27.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "EventManagerment\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "EventManagerment\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAIAwwCIAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T09:05:53.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "EventManagerment\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Controllers\\UserController.cs",
-              "RelativeToolTip": "EventManagerment\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAkwJIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T15:49:54.328Z",
-              "EditorCaption": ""
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Views\\Events\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventManagerment\\Views\\Events\\Index.cshtml",
+              "ToolTip": "D:\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Views\\Events\\Index.cshtml",
+              "RelativeToolTip": "EventManagerment\\Views\\Events\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwDIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T08:58:23.621Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AttendeesController.cs",
-              "DocumentMoniker": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Controllers\\AttendeesController.cs",
-              "RelativeDocumentMoniker": "EventManagerment\\Controllers\\AttendeesController.cs",
-              "ToolTip": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Controllers\\AttendeesController.cs",
-              "RelativeToolTip": "EventManagerment\\Controllers\\AttendeesController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EventManagerment\\Models\\User.cs",
+              "ToolTip": "D:\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Models\\User.cs",
+              "RelativeToolTip": "EventManagerment\\Models\\User.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBoAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T07:58:57.747Z",
+              "WhenOpened": "2025-02-22T10:40:27.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "EventManagerment\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "EventManagerment\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-20T06:52:26.893Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "EventManagerment\\Controllers\\EventsController.cs",
+              "ToolTip": "D:\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "EventManagerment\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAuwIIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:27:43.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Program.cs",
+              "RelativeDocumentMoniker": "EventManagerment\\Program.cs",
+              "ToolTip": "D:\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Program.cs",
+              "RelativeToolTip": "EventManagerment\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T15:05:06.292Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "EventManagerment\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "EventManagerment\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Views\\Events\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EventManagerment\\Views\\Events\\Edit.cshtml",
+              "ToolTip": "D:\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Views\\Events\\Edit.cshtml",
+              "RelativeToolTip": "EventManagerment\\Views\\Events\\Edit.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwDQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T15:18:52.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Profile.cshtml",
-              "DocumentMoniker": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Views\\User\\Profile.cshtml",
-              "RelativeDocumentMoniker": "EventManagerment\\Views\\User\\Profile.cshtml",
-              "ToolTip": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Views\\User\\Profile.cshtml",
-              "RelativeToolTip": "EventManagerment\\Views\\User\\Profile.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T15:51:57.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Program.cs",
-              "RelativeDocumentMoniker": "EventManagerment\\Program.cs",
-              "ToolTip": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Program.cs",
-              "RelativeToolTip": "EventManagerment\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T15:05:06.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Views\\Authentication\\Index.cshtml",
-              "RelativeDocumentMoniker": "EventManagerment\\Views\\Authentication\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Views\\Authentication\\Index.cshtml",
-              "RelativeToolTip": "EventManagerment\\Views\\Authentication\\Index.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T09:06:50.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Views\\Attendees\\Create.cshtml",
-              "RelativeDocumentMoniker": "EventManagerment\\Views\\Attendees\\Create.cshtml",
-              "ToolTip": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Views\\Attendees\\Create.cshtml",
-              "RelativeToolTip": "EventManagerment\\Views\\Attendees\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T08:54:25.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Attendee.cs",
-              "DocumentMoniker": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Models\\Attendee.cs",
-              "RelativeDocumentMoniker": "EventManagerment\\Models\\Attendee.cs",
-              "ToolTip": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Models\\Attendee.cs",
-              "RelativeToolTip": "EventManagerment\\Models\\Attendee.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T08:02:39.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AppDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\DBContext\\AppDBContext.cs",
-              "RelativeDocumentMoniker": "EventManagerment\\DBContext\\AppDBContext.cs",
-              "ToolTip": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\DBContext\\AppDBContext.cs",
-              "RelativeToolTip": "EventManagerment\\DBContext\\AppDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T08:01:27.857Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EventsController.cs",
-              "DocumentMoniker": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Controllers\\EventsController.cs",
-              "RelativeDocumentMoniker": "EventManagerment\\Controllers\\EventsController.cs",
-              "ToolTip": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\Controllers\\EventsController.cs",
-              "RelativeToolTip": "EventManagerment\\Controllers\\EventsController.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAuwIQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T07:27:43.985Z"
+              "WhenOpened": "2025-02-20T07:51:10.379Z"
             }
           ]
         }

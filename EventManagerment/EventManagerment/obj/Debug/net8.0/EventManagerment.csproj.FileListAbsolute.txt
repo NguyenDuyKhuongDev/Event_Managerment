@@ -283,3 +283,4 @@ C:\Users\LAPTOP\Desktop\WorkSpace\.Net\Event_Managerment\EventManagerment\EventM
 C:\Users\LAPTOP\Desktop\WorkSpace\.Net\Event_Managerment\EventManagerment\EventManagerment\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\LAPTOP\Desktop\WorkSpace\.Net\Event_Managerment\EventManagerment\EventManagerment\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\LAPTOP\Desktop\WorkSpace\.Net\Event_Managerment\EventManagerment\EventManagerment\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\Event_Managerment\EventManagerment\EventManagerment\bin\Debug\net8.0\libman.json

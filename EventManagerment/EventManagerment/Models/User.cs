@@ -24,8 +24,8 @@ namespace EventManagerment.Models
         [StringLength(255, ErrorMessage = "Email must be between 3 and 255 characters", MinimumLength = 3)]
         public string? Email { get; set; }
 
-        [StringLength(255, ErrorMessage = "Role must be between 3 and 255 characters", MinimumLength = 3)]
-        public string? Role { get; set; }
+        [StringLength(255, ErrorMessage = "Role must be between 3 and 255 characters")]
+        public string? Role { get; set; } = "0";
 
         public ICollection<Attendee>? Attendees { get; set; }
     }

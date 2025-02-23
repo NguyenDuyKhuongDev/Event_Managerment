@@ -7,15 +7,18 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using EventManagerment.DBContext;
 using EventManagerment.Models;
+using Microsoft.AspNetCore.SignalR;
 
 namespace EventManagerment.Controllers
 {
     public class EventsController : Controller
     {
         private readonly AppDBContext _context;
+        private readonly IHubContext<SignalrServer.SignalrServer> _hubContext;
 
-        public EventsController(AppDBContext context)
+        public EventsController(AppDBContext context, IHubContext<SignalrServer.SignalrServer> hubContext)
         {
+            _hubContext = hubContext;
             _context = context;
         }
 
@@ -24,6 +27,27 @@ namespace EventManagerment.Controllers
         {
             var appDBContext = _context.Events.Include(e => e.Category);
             return View(await appDBContext.ToListAsync());
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> GetEvents()
+        {
+            var events = await _context.Events
+                .Include(e => e.Category) // Chỉ Include đến Category, không truy xuất sâu hơn
+                .Select(e => new
+                {
+                    e.EventID,
+                    e.CategoryID,
+                    CategoryName = e.Category != null ? e.Category.CategoryName : null,
+                    e.Title,
+                    e.Description,
+                    e.StartTime,
+                    e.EndTime,
+                    e.Location
+                })
+                .ToListAsync();
+
+            return Ok(events);
         }
 
         // GET: Events/Details/5
@@ -104,6 +128,7 @@ namespace EventManagerment.Controllers
                 {
                     _context.Update(@event);
                     await _context.SaveChangesAsync();
+                    await _hubContext.Clients.All.SendAsync("LoadEvents");
                 }
                 catch (DbUpdateConcurrencyException)
                 {

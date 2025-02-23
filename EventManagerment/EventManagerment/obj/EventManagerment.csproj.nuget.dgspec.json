@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\EventManagerment.csproj": {}
+    "D:\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\EventManagerment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\EventManagerment.csproj": {
+    "D:\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\EventManagerment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\EventManagerment.csproj",
+        "projectUniqueName": "D:\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\EventManagerment.csproj",
         "projectName": "EventManagerment",
-        "projectPath": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\EventManagerment.csproj",
+        "projectPath": "D:\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\EventManagerment.csproj",
         "packagesPath": "C:\\Users\\LAPTOP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LAPTOP\\Desktop\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\obj\\",
+        "outputPath": "D:\\WorkSpace\\.Net\\Event_Managerment\\EventManagerment\\EventManagerment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
